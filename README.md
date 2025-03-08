@@ -7,7 +7,7 @@ This project presents a **Predictive Model for determining whether a person shou
 Predictive models play a crucial role in the banking and financial sectors by helping institutions assess the risk associated with lending and ensuring that loans are granted to reliable borrowers. Among various statistical techniques, logistic regression is widely used for binary classification tasks, such as determining whether a person should be granted a loan or not. This method is particularly effective because it provides a probability estimate of loan approval based on a set of input variables.
 
 ## **Overview of Logistic Regression**
-Logistic regression is a type of regression analysis used for predicting the outcome of a categorical dependent variable based on one or more predictor variables. It is especially suited for binary outcomes, such as loan approval (yes/no) or credit risk assessment (high/low). The model outputs a probability between 0 and 1, which can be interpreted as the likelihood of loan approval
+Logistic regression is a type of regression analysis used for predicting the outcome of a categorical dependent variable based on one or more predictor variables. It is especially suited for binary outcomes, such as loan approval (yes/no) or credit risk assessment (high/low). The model outputs a probability between 0 and 1, which can be interpreted as the likelihood of loan approval.
 
 ## **Use Cases**  
 * **Banks and Financial Institutions** – Automating loan approval processes.  
